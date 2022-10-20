@@ -1,0 +1,13 @@
+package view;
+
+import java.awt.Font;
+
+public class ConstansGUI {
+	public static final String RED_BUTTON_COLOR= "#F54433";
+	public static final String GREEN_BUTTON_COLOR = "#12FF81";
+	public static final String PURPLE_COLOR = "#A412FF";
+	
+	public static final Font GADUGI_FONT = new Font("Microsoft PhagsPa", Font.PLAIN, 20);
+	public static final Font GADUGI_FONT_SMALL = new Font("Microsoft PhagsPa", Font.PLAIN, 16);
+	public static final Font TAHOMA_FONT = new Font("Tahoma", Font.PLAIN, 15);
+}
